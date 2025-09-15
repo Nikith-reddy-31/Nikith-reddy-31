@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Nikith Reddy  
 
-<!--
-**Nikith-reddy-31/Nikith-reddy-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science Student | 💻 Aspiring Software Developer  
+🚀 Passionate about building applications (Frontend + Backend) and exploring Software Architecture.  
 
-Here are some ideas to get you started:
+## 🌱 What I'm currently learning  
+- Full-Stack Development (MERN & Django)  
+- Software Architecture & Design Patterns  
+- Cloud & DevOps basics (AWS, Docker, CI/CD)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- **Languages:** C++, Java, Python, JavaScript  
+- **Frontend:** React, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express, Django  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+## 📌 Projects  
+- 
+👉 Check out more projects in my repositories!  
+
+## 📫 Connect with me  
+- LinkedIn: https://www.linkedin.com/in/k-nikith-reddy-9369b8255
+- Email: konthamenikithreddy@gmail.com
